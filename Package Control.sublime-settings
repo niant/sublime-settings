@@ -1,0 +1,37 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"A File Icon",
+		"AdvancedNewFile",
+		"ayu",
+		"Babel",
+		"BracketHighlighter",
+		"Colorsublime",
+		"DocBlockr",
+		"File Rename",
+		"FileCommands",
+		"Fix Mac Path",
+		"Git",
+		"GitGutter",
+		"Gutter Color",
+		"ImportHelper",
+		"JsPrettier",
+		"Material Theme",
+		"Mocha Snippets",
+		"NeoVintageous",
+		"One Dark Material - Theme",
+		"Package Control",
+		"Pretty JSON",
+		"PureScript",
+		"Sass",
+		"SublimeLinter",
+		"SublimeLinter-eslint",
+		"tern_for_sublime",
+		"TypeScript",
+		"WebAssembly Text Syntax"
+	]
+}
